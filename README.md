@@ -1,138 +1,43 @@
+Proyecto Integrador | React JS
+¡Buenas! ¿Cómo están? Llegaron al final del módulo de React JS. Felicitaciones! 🎉   
 
-<div id="top"></div>
-            
-[![MIT License][license-shield]](https://github.com/Atugriceri/e-commerce-react-app/blob/main/LICENSE)
-[![LinkedIn][linkedin-shield]](https://www.linkedin.com/in/alpertugriceri/)
+A continuación les dejamos las indicaciones que deberán tener en cuenta para realizar el proyecto del módulo de React , ¡Es momento de aplicar lo aprendido! 🤓
 
+🔗 Tendrán dos opciones para realizar el Proyecto integrador:
 
-<br />
-<div align="center">
-  <a href="https://github.com/Atugriceri/e-commerce-react-app">
-    <img src="https://openmoji.org/data/color/svg/1F6D2.svg" alt="Logo" width="80" height="80">
-  </a>
-  <h3 align="center">E-Commerce-React-App</h3>
+1. ¿Se acuerdan del Integrador de JS? 🤔
 
-  <p align="center">
-     Shopping site project that includes basic processes such as adding to cart, adding to favorites, product listing and product detail page, which should be on an e-commerce site.
-    <br />
-    <br />
-    <a href="https://atugriceri-e-commerce-react-app.netlify.app/">View Demo</a>
-  </p>
-</div>
+Bueno, pueden migrar su E-commerce o página de noticias a React utilizando las tecnologías vistas durante el módulo.
 
-<!-- TABLE OF CONTENTS -->
-<details>
-  <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="#about-the-project">About The Project</a>
-      <ul>
-        <li><a href="#built-with">Built With</a></li>
-      </ul>
-    </li>
-    <li><a href="#getting-started">Getting Started</a></li>
-    <li><a href="#usage">Usage</a></li>
-    <li><a href="#roadmap">Roadmap</a></li>
-    <li><a href="#license">License</a></li>
-    <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgments">Acknowledgments</a></li>
-  </ol>
-</details>
+2. La opción para valientes  💪 :
 
-<!-- ABOUT THE PROJECT -->
-## About The Project
+Arrancar un proyecto de cero, respetando la temática de E-commerce o página de noticias , también utilizando las nuevas tecnologías aprendidas.
+ 
+En ambos casos, podrán  basarse en el NucbaZappi y todo lo  que fuimos aplicando en dicho proyecto.
 
-![PROJECT_SCREENSHOT_01](./src/Assets/Screenshots/Screenshot_01.jpg)
+🕵 OJO :  Esto no significa que pueden copiar y pegar el código, sino utilizar la temática de E-Commerce o noticias incluyendo algunas funcionalidades implementadas en este proyecto( Por ejemplo, en caso de hacer un E-commerce, pueden basarse en el carrito del NucbaZappi para hacer el carrito de compras de su tienda).
 
-An e-commerce site with basic shopping functions. You can list the products according to their categories, go to the detail page of the relevant product, add the product to your favorites and to the cart, together with the captured product data.
+🚨 Los proyectos que tengan la misma UI y temática que el NucbaZappi, no serán corregidos.
 
-The project was developed in conjunction with React.js, including Context, Hooks, and Life Cycles Methods. Styled with Tailwind CSS. 
+🔗 Tendrán 30 días para la realización del mismo, los cuales se contabilizarán a partir de las 00:00 Hs del día siguiente de la clase a la cual está vinculado este posteo en la plataforma de entregas (de todas maneras, les figura la fecha de cierre en la plataforma de entregas). Pasado ese plazo, no podrán realizar la entrega del mismo.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+🔗 Para aquellos que hayan entregado en esta primera instancia de 30 días, en caso de que el mentor lo considere, habrá una instancia de revisión del proyecto. La idea de esto es que puedan terminar de pulir los detalles que hayan quedado por pulir o mejorar en el trabajo y puedan tener un proyecto bien pulido y completo para su portfolio. El tiempo que tengan para realizar esta revisión va a variar según las correcciones de la camada. Se les avisará con AL MENOS 15 días de anticipación la fecha de cierre de esta instancia de revisión POR MEDIO DEL CANAL DE DISCORD DE LA CAMADA, tiempo suficiente para que realicen las correcciones que queden por realizar. Recomendamos que una vez que tengan corregido su integrador, comiencen a trabajar sobre el mismo, para no tener que andar corriendo luego sobre el final del plazo. Pasados los 20 días después del aviso, no podrán realizar la entrega.
+
+🔗 Recuerden que no pueden usar el Logo institucional de Nucba. Desarrollen su propia idea, su propio modelo de negocio.
+
+🔗 Si no tienen que pasar a una segunda instancia, sigan iterando el proyecto de todas formas, ya que es importante seguir mejorando lo ya realizado
 
 
-### Built With
+Pueden ir haciéndolo de a poco, y con lo mismo de siempre:
 
-* [React.js](https://reactjs.org/)
-* [Tailwind CSS](https://tailwindui.com/)
-* [Axios](https://www.npmjs.com/package/axios)
-* [Fake Store Api](https://fakestoreapi.com/)
+👉 Deberán entregar el repositorio de Github del proyecto y el link de Vercel que corresponda al mismo.😁
 
-<p align="right">(<a href="#top">back to top</a>)</p>
+👉 Cuiden el diseño , no solo las funcionalidades. Es el anteúltimo proyecto integrador de la carrera, ya están en condiciones de hacer un proyecto con las funcionalidades solicitadas y que sea totalmente responsive (y por lo tanto, es una condición necesaria para aprobar que el trabajo sea adaptable a todos los dispositivos).
 
+👉 Es requisito la entrega de este trabajo para obtener el certificado de cumplimiento del módulo, no se duerman 😴
 
-<!-- GETTING STARTED -->
-## Getting Started
+🚨   ¡Y recuerden! Siempre van a poder consultar a su aliado más fuerte: Google, Docus de NUCBA y un buen feca ☕
 
- -  Fork the project and clone it locally.
- -  In the project directory, ou can follow the steps below to download the dependencies:
-     - Install with npm:
-     ```sh
-     npm i
-     ```
-     - Install with yarn:
-     ```sh
-     yarn
-     ```
-- In the project directory, you can run:
-  - Run with npm:
-  ```sh
-  npm run
-  ```
-  - Run with yarn:
-  ```sh
-  yarn start
-  ```
+Recuerden que estos proyectos integradores formarán parte de sus portfolios. Busquen destacar y , por supuesto, disfruten del proceso. 🙌
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-## Usage
-
-You can list the products by clicking on the categories, add and remove the products to the cart and favorites. You can view the products you have added to the cart and favorites on the cart and favorites pages.
-
-[See it live!](https://atugriceri-e-commerce-react-app.netlify.app/)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-## Roadmap
-
-- [x] Fetching product data, listing by categories and product detail page.
-- [x] Add to favorites and favorites page.
-- [x] Add to cart and cart page.
-- [ ] Responsive Design
-      - [ ] Navbar
-      - [ ] Card
-- [ ] Complete the sign in and sign up process.
-- [ ] Create order page.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-## License
-
-Distributed under the MIT License. See `LICENSE.txt` for more information.
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-## Contact
-
-Alper Tugriçeri - [Linkedin](https://www.linkedin.com/in/alpertugriceri/) - alpertugriceri@gmail.com
-
-Project Link: [https://github.com/Atugriceri/e-commerce-react-app](https://github.com/Atugriceri/e-commerce-react-app)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-<!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
-
-* [Hero Icons](https://heroicons.com/)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
-<!-- MARKDOWN LINKS & IMAGES -->
-<!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[license-shield]: https://img.shields.io/github/license/othneildrew/Best-README-Template.svg?style=for-the-badge
-[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+⏰  ¡Esperamos esos trabajos!
